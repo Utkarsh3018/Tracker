@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tracker Go</string>
+    <string name="google_map_key" templateMergeStratergy="preserve" translatable="false">App Key here</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+</resources>
